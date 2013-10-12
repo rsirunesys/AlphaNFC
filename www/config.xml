@@ -6,10 +6,10 @@
         id        = "com.adjustablesoftware.alphanfc"
         version   = "1.0.0">
 
-    <name>Alpha UX Scan</name>
+    <name>Alpha NFC</name>
 
     <description>
-        An Alpha Anywhere / PhoneGap app for scanning a barcode from a UX Component
+        An Alpha Anywhere / PhoneGap Build App for scanning an NFC Tag
     </description>
 
     <author href="http://www.adjustablesofware.com" email="rune.dkates@rogers.com">
